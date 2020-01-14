@@ -7,3 +7,7 @@ However, most of my projects are bitbucket private repos. Also most of clients d
 
 This project is simple demonstration of "how I work with Golang" and should give general idea of my coding skills.
 
+### What will it cover?
+I will write a http server in this project and attach it to the mysql for CRUD operations.
+
+At the initial moment I do not have idea what I am going to build, so this will be the simple project at first. But maybe over a period of time, I will add features to demonstrate other skills.
